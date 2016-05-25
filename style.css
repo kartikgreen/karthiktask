@@ -1,0 +1,31 @@
+        body{
+            width:100%;
+            margin:0px;
+            padding:0px;
+        }
+        #head{
+            background-color:pink;
+            width:100%;
+            color:#fff;
+            text-align:center;
+
+
+        }
+        
+       
+        #mainbody{
+       width:100%; 
+       margin:0 auto;        
+        }
+        #fgroup{
+            float:left;
+            color:#fff;
+            margin:30px;
+            height:150px;
+            width:326px;
+            padding:10px;
+            background-color:pink;
+
+        }
+                
+
